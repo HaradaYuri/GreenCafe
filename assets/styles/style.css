@@ -856,13 +856,13 @@ nav span .fa-bars {
     color: #4f7c3a;
 }
 
-.ftr-logo a {
-    display: block;
-    width: 100%;
+.ftr-logo {
+    width: 10%;
 }
 
 .ftr-logo img {
-    height: 85px;
+    /* height: 85px; */
+    width: 80%;
     object-fit: contain;
     object-position: center;
 }
@@ -1225,8 +1225,7 @@ a .fa-instagram {
     }
 
     .ftr-logo img {
-        /* width: 55px; */
-        height: 55px;
+        width: 105%;
     }
 }
 
