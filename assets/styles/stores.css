@@ -250,7 +250,12 @@ a .fa-instagram {
     }
 
     .ftr-logo img {
-        height: 55px;
+        height: 50px;
+    }
+
+    .ftr-last-container h3{
+        text-wrap: nowrap;
+        font-size: 18px;
     }
 
     .ftr-ul-wrapper .mob-none {

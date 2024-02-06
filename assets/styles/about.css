@@ -258,17 +258,6 @@ footer a {
     font-family: "Exo 2", sans-serif;
 }
 
-/* .green-back {
-    width: 100%;
-    height: 450px;
-
-    position: absolute;
-    left: 0;
-    top: 0;
-    background-color: #4f7c3a;
-    z-index: -10;
-} */
-
 .ftr-ul-wrapper {
     margin: auto;
     width: 80%;
@@ -430,7 +419,12 @@ a .fa-instagram {
     }
 
     .ftr-logo img {
-        height: 55px;
+        height: 50px;
+    }
+
+    .ftr-last-container h3 {
+        text-wrap: nowrap;
+        font-size: 18px;
     }
 
     .ftr-ul-wrapper .mob-none {
